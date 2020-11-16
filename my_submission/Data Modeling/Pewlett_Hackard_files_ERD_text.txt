@@ -28,9 +28,11 @@ departments
 dept_no VARCHAR(30) PK
 dept_name VARCHAR(30)
 
+# Composite key for dept_emp on (dept_no, emp no)
+# but this ERD does not have a way to make a composite key
 dept_emp
 ----
-emp_no INT PK FK >- employees.emp_no
+emp_no INT FK >- employees.emp_no
 dept_no VARCHAR(30) FK >- departments.dept_no
 
 # Composite key for dept_manager on (dept_no, emp no)
