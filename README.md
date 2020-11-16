@@ -33,13 +33,13 @@ Data analysis did not give too many issues as once the tables were set up and da
 
 #### Bonus:
 
-The analysis for the bonus section was quite interesting. First here's the visuals. The first visual is a histogram of the salaries:
+The analysis for the bonus section was quite interesting. First here's the visuals. The first visual is a histogram of the salaries, the y column cut out is Employee count:
 
 <br>
 <br>
 <img src="https://github.com/slobanwala1/sql-challenge/blob/main/my_submission/Images/Salary_Histogram.png" width="500">
 
-Second is the bar graph of Salaries vs Employee title:
+Second is the bar graph of Avg Salaries by Employee title:
 
 <br>
 <br>
