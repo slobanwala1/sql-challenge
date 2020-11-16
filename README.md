@@ -18,6 +18,6 @@ After working on the ERD's there were a few changes I had to make each time due 
 
 <br>
 <br>
-<img src="https://github.com/slobanwala1/sql-challenge/blob/main/my_submission/Images/Pewlett_Hackard_files_ERD_ImgOnly.PNG" width="500">
+<img src="https://github.com/slobanwala1/sql-challenge/blob/main/my_submission/Images/Pewlett_Hackard_files_ERD_ImgOnly.PNG" height="600" width="600">
 
 Heres the links to the [ERD with the sql code](https://github.com/slobanwala1/sql-challenge/blob/main/my_submission/Images/Pewlett_Hackard_files_ERD.PNG) and a [txt file](https://github.com/slobanwala1/sql-challenge/blob/main/my_submission/Data_Modeling/Pewlett_Hackard_files_ERD_text.txt) with just the sql code.
